@@ -1,4 +1,4 @@
-# Instructions_pour_découper_au_laser 
+# Instructions pour découper au laser 
 
 ## Créer le fichier avec Inkscape
 La découpe laser utilise un fichier svg pour déterminer les traits de coupe. Inkscape, un logiciel libre, permet de créer des fichiers appropriés.
